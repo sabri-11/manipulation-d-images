@@ -1,8 +1,8 @@
 Compilez et exécutez depuis un terminal sur linux à l'aide de la commande :
 
-gcc -Wall -Wfatal-errors lodepng.c noir_et_blanc.c -o noir_et_blanc && ./noir_et_blanc chat.png image_noir_et_blanc.png
+gcc -Wall -Wfatal-errors lodepng.c noir_et_blanc.c -o noir_et_blanc && ./noir_et_blanc image.png image_noir_et_blanc.png
 
-Une image de chat en couleur est donnée mais vous pouvez la remplacer par l'image que vous voulez si vous le souhaitez. Il faudra cependant changer le nom de l'image chat.png par le nouveau nom de votre image dans la ligne de commande pour l'éxecution.
+Une image de chat en couleur est donnée mais vous pouvez la remplacer par l'image que vous voulez si vous le souhaitez. Il faudra cependant : soit renommer l'image que vous prenez par "image.png", soit modifier la ligne de commande d'exécution en remplançant "image.png" par le nouveau nom de votre image
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Bonjour,
