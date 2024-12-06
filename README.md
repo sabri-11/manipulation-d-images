@@ -1,3 +1,3 @@
-Bonjour, 
+Bonjour,
 
-Vous trouverez ici les projets que j'ai pu réalisé lors de Traveaux Pratiques. Le but étant de nous initier à la manipulation d'images en langage C. Nous avons utilisé une librairie extérieure de lecture d’images appelée LodePNG.
+Le but de ce programme est de transformer une image en couleur en une image noire et blanc. Une image noire et blanc a la particulatité que pour chaque pixel, la quantité de rouge, de vert de de bleu est la même. Pour convertir une image couleur en noir et blanc, on remplace simplement, pour chaque pixel, la valeur de rouge, de vert et de bleu par la moyenne de ces trois valeurs.
